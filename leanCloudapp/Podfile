@@ -1,0 +1,4 @@
+pod 'AVOSCloud'
+pod 'AVOSCloudIM'
+pod 'LeanChatLib'
+

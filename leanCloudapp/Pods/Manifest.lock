@@ -1,0 +1,37 @@
+PODS:
+  - AVOSCloud (3.2.7)
+  - AVOSCloudIM (3.2.7):
+    - AVOSCloud
+  - DateTools (1.5.0)
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - JSBadgeView (1.4.1)
+  - LeanChatLib (0.3.5):
+    - AVOSCloud
+    - AVOSCloudIM
+    - DateTools (= 1.5.0)
+    - FMDB (= 2.5)
+    - JSBadgeView (= 1.4.1)
+    - SDWebImage
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - AVOSCloud
+  - AVOSCloudIM
+  - LeanChatLib
+
+SPEC CHECKSUMS:
+  AVOSCloud: 957d1508104d7c8ed501df9d9b734d7a98c2e047
+  AVOSCloudIM: ec08eaec4d27d732e3be93eadeb3bcf1355b5dcf
+  DateTools: b93a2c2017747329c6077c7d7e8a75106e23d0d7
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  JSBadgeView: 3861ddee41094284d9468e6d0af5107f703aaac5
+  LeanChatLib: 9a5ed59b2b7224a0f0ea9dbb94c83e2fde0fe5d1
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+COCOAPODS: 0.39.0
